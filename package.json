@@ -1,7 +1,7 @@
 {
-	"name": "azamibot-md-multi",
+	"name": "yzwony-MD",
 	"version": "6.0.0",
-	"description": "WhatsApp Bot - Recoded by Zerenity",
+	"description": "WhatsApp Bot - yzwony",
 	"main": "index.js",
 	"type": "module",
 	"directories": {
